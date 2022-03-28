@@ -2,7 +2,7 @@ This project contains four differnt sections.(Detailed information in the report
 1.SVM
 2.Logistic Regression
 3.Convolutional Neural Network
-4. Transfer Learning
+4.Transfer Learning
 Dataset for the first three section is the MNist hand written digits.
 Dataset for transfer learning is the 10-monkey-species from kaggle
 
